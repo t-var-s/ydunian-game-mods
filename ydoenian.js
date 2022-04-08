@@ -1,4 +1,4 @@
-//jQuery.getScript('https://cdn.jsdelivr.net/gh/t-var-s/yodunian-game-mods@main/ydoenian.js')
+//jQuery.getScript('https://cdn.jsdelivr.net/gh/t-var-s/ydunian-game-mods@main/ydoenian.js')
 function defineDialogueBox(options){
     if(!options){ 
         options = { continue_text: 'y doe'}; 
